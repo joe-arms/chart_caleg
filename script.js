@@ -5,8 +5,8 @@ let dataPartai = ""; //data partai
 let onPartai = 1;
 // Daftar URL yang ingin di fetch
 const urls = [
-    "https://sirekap-obj-data.kpu.go.id/pemilu/hhcd/pdprdk/32/3212/321203.json",
-    "https://sirekap-obj-data.kpu.go.id/pemilu/caleg/partai/321203.json",
+    "https://sirekap-obj-data.kpu.go.id/pemilu/hhcd/pdprdk/33/3327/332701.json",
+    "https://sirekap-obj-data.kpu.go.id/pemilu/caleg/partai/332701.json",
     "https://sirekap-obj-data.kpu.go.id/pemilu/partai.json"
 ];
 let dataKu = {
